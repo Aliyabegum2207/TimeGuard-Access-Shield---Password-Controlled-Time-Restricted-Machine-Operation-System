@@ -1,0 +1,9 @@
+edit.o: edit.c
+edit.o: C:\KeilARM\ARM\INC\Philips\LPC21xx.h
+edit.o: types.h
+edit.o: lcd.h
+edit.o: types.h
+edit.o: kpm.h
+edit.o: types.h
+edit.o: delay.h
+edit.o: edit.h

@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "lcd.o" "kpm.o" "delay.o" "arduino.o" "rtc.o" "exint.o" "pin_connect_block.o" "edit.o" "main_do_while.o" --strict --scatter "mini_pro1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\mini_pro1.map" -o "mini_pro1.axf"

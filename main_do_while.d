@@ -1,0 +1,11 @@
+main_do_while.o: main_do_while.c
+main_do_while.o: C:\KeilARM\ARM\INC\Philips\LPC21xx.h
+main_do_while.o: lcd.h
+main_do_while.o: types.h
+main_do_while.o: kpm.h
+main_do_while.o: types.h
+main_do_while.o: delay.h
+main_do_while.o: types.h
+main_do_while.o: edit.h
+main_do_while.o: rtc.h
+main_do_while.o: types.h

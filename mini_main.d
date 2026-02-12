@@ -1,0 +1,11 @@
+mini_main.o: mini_main.c
+mini_main.o: C:\KeilARM\ARM\INC\Philips\LPC21xx.h
+mini_main.o: lcd.h
+mini_main.o: types.h
+mini_main.o: kpm.h
+mini_main.o: types.h
+mini_main.o: delay.h
+mini_main.o: types.h
+mini_main.o: edit.h
+mini_main.o: rtc.h
+mini_main.o: types.h

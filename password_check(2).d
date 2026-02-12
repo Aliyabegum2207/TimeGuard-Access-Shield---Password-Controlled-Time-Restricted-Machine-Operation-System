@@ -1,0 +1,9 @@
+password_check(2).o: password_check(2).c
+password_check(2).o: C:\KeilARM\ARM\INC\Philips\LPC21xx.h
+password_check(2).o: lcd.h
+password_check(2).o: types.h
+password_check(2).o: lcd_defines.h
+password_check(2).o: kpm.h
+password_check(2).o: types.h
+password_check(2).o: types.h
+password_check(2).o: delay.h
