@@ -62,6 +62,9 @@ The main objectives of this project are:
 
 
 ---
+## Block Diagram
+<img width="658" height="436" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/4f93706a-b2a1-4365-889d-8e9d8479875e" />
+
 
 ## 🧠 Main Features
 
@@ -473,9 +476,6 @@ The project can be further improved by adding:
 
 ---
 
-## Block Diagram
-<img width="658" height="436" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/4f93706a-b2a1-4365-889d-8e9d8479875e" />
-
 
 
 
@@ -483,30 +483,12 @@ The project can be further improved by adding:
 
 **Aliya Begum**
 
-B.Tech Graduate
-Embedded Systems / Embedded Software Enthusiast
+B.Tech Graduate(Electronics and Communication Engineering)
+
+Vector India Mini Project
+
+Embedded Systems|LPC2148 microcontroller
 
 ---
----
-
-## 📌 Keywords
-
-```text
-LPC2148
-ARM7
-Embedded C
-Embedded Systems
-GPIO
-LCD Interfacing
-Keypad Interfacing
-RTC
-Password Authentication
-Access Control
-Time-Based Control
-Industrial Automation
-Machine Safety
-Embedded Software
-```
-
 ---
 
