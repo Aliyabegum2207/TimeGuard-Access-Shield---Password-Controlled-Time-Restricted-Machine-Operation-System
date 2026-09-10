@@ -487,17 +487,6 @@ B.Tech Graduate
 Embedded Systems / Embedded Software Enthusiast
 
 ---
-
-## ⭐ Project Highlights for Resume
-
-**TimeGuard Access Shield – Password-Controlled Time-Restricted Machine Operation System**
-
-* Developed an LPC2148-based embedded access-control system using Embedded C.
-* Implemented password authentication using a 4x4 keypad and LCD interface.
-* Integrated RTC-based time monitoring to restrict machine operation to predefined working hours.
-* Implemented automatic access restriction when authentication fails or the permitted time expires.
-* Designed a menu-driven interface for RTC, working-hours and password configuration.
-
 ---
 
 ## 📌 Keywords
@@ -521,6 +510,3 @@ Embedded Software
 
 ---
 
-## 📜 License
-
-This project is intended for educational and embedded-systems learning purposes.
